@@ -3,6 +3,7 @@
 # silent-upgrades.sh - Configure automatic security updates and reboots for Debian/Ubuntu
 # Author: johnwbyrd at gmail dot com
 # License: https://www.gnu.org/licenses/gpl-3.0.html
+# Repository: https://github.com/johnwbyrd/silent-upgrades
 # SPDX-License-Identifier: GPL-3.0-or-later
 # 
 # To install:
