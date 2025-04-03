@@ -14,11 +14,11 @@ In my personal case, I feel that the benefits of having the most recent security
 ## Installation
  
 ```
-curl -L -s https://silentupgrades.johnbyrd.com/silent-upgrades.sh | sudo bash
+curl -L -s https://silentupgrades.johnbyrd.com | sudo bash
 ```
 
 # Uninstallation
 
 ```
-curl -L -s https://silentupgrades.johnbyrd.com/silent-upgrades.sh | sudo bash -s -- --uninstall
+curl -L -s https://silentupgrades.johnbyrd.com | sudo bash -s -- --uninstall
 ```
