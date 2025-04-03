@@ -7,10 +7,10 @@
 # SPDX-License-Identifier: GPL-3.0-or-later
 # 
 # To install:
-#   curl -L -s https://silentupgrades.johnbyrd.com/silent-upgrades.sh | sudo bash
+#   curl -L -s https://silentupgrades.johnbyrd.com | sudo bash
 # 
 # To uninstall:
-#   curl -L -s https://silentupgrades.johnbyrd.com/silent-upgrades.sh | sudo bash -s -- --uninstall
+#   curl -L -s https://silentupgrades.johnbyrd.com | sudo bash -s -- --uninstall
 
 # Configuration
 CONFIG_FILE="/etc/apt/apt.conf.d/60silent-upgrades"
