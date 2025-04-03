@@ -1,15 +1,15 @@
 #!/bin/bash
 #
-# silent-upgrades.sh - Cnfigure automatic security updates and reboots for Debian/Ubuntu
+# silent-upgrades.sh - Configure automatic security updates and reboots for Debian/Ubuntu
 # Author: johnwbyrd at gmail dot com
 # License: https://www.gnu.org/licenses/gpl-3.0.html
 # SPDX-License-Identifier: GPL-3.0-or-later
 # 
 # To install:
-#   curl -s https://silentupgrades.johnbyrd.com/silent-upgrades.sh | sudo bash
+#   curl -L -s https://silentupgrades.johnbyrd.com/silent-upgrades.sh | sudo bash
 # 
 # To uninstall:
-#   curl -s https://silentupgrades.johnbyrd.com/silent-upgrades.sh | sudo bash -s -- --uninstall
+#   curl -L -s https://silentupgrades.johnbyrd.com/silent-upgrades.sh | sudo bash -s -- --uninstall
 
 # Configuration
 CONFIG_FILE="/etc/apt/apt.conf.d/60silent-upgrades"
