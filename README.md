@@ -17,7 +17,7 @@ In my personal case, I feel that the benefits of having the most recent security
 curl -L -s https://silentupgrades.johnbyrd.com | sudo bash
 ```
 
-# Uninstallation
+## Uninstallation
 
 ```
 curl -L -s https://silentupgrades.johnbyrd.com | sudo bash -s -- --uninstall
