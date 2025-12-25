@@ -22,3 +22,5 @@ curl -L -s https://silentupgrades.johnbyrd.com | sudo bash
 ```
 curl -L -s https://silentupgrades.johnbyrd.com | sudo bash -s -- --uninstall
 ```
+
+Questions?  Problems?  Solutions?  Corrections?  Please submit them at https://github.com/johnwbyrd/silent-upgrades/issues so that others may benefit.
